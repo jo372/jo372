@@ -11,5 +11,5 @@ One of my proudest achievements last year was working alongside [AlmasB](https:/
 * C & C++
 * Assembly Code
 
-For anything else you can look at my portfolio [here](https://github.com/jo372/portfolio) (Warning: Currently a work in progress)
+For anything else you can look at my portfolio [here](https://jo372.github.io/portfolio/) (Warning: Currently a work in progress)
 
