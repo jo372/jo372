@@ -11,5 +11,3 @@ One of my proudest achievements last year was working alongside [AlmasB](https:/
 * C & C++
 * Assembly Code
 
-For anything else you can look at my portfolio [here](https://jordanohara.dev/) (Warning: Currently a work in progress)
-
