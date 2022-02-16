@@ -14,7 +14,7 @@ One of my proudest achievements last year was working alongside [AlmasB](https:/
 * C & C++
 * Assembly Code
 
-Currently a work in progress: https://jordanohara.dev/
+Currently a work in progress: https://jordanohara.dev/ I also hope to be writing more articles after I finish university at https://hashnode.com/@jordanohara
 
 --- 
 
