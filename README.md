@@ -1,7 +1,6 @@
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=jo372&label=Profile%20views&color=0e75b6&style=flat" alt="jo372" /></p>
-
-[![Alt text](/header.png)](#)
+<img src="/header.png" alt="an image which states Hi, I'm Jordan O'Hara" style="max-width: 100%"/>
 
 ### About Me
 ---
@@ -20,5 +19,6 @@ Currently a work in progress: https://jordanohara.dev/ I also hope to be writing
 
 --- 
 
-[![Jordans Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo372&langs_count=10&layout=compact&theme=tokyonight&hide=css)](#) [![Jordans GitHub stats](https://github-readme-stats.vercel.app/api?username=jo372&theme=tokyonight&show_icons=true&count_private=true)](#) 
-
+Most Used Languages           |  Github Stats
+:-------------------------:|:-------------------------:
+[![Jordans Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo372&langs_count=10&layout=compact&theme=tokyonight&hide=css&hide_title=true)](#)  |  [![Jordans GitHub stats](https://github-readme-stats.vercel.app/api?username=jo372&theme=tokyonight&show_icons=true&count_private=true&hide_title=true)](#) 
