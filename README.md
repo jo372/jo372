@@ -1,5 +1,7 @@
 
-[![Alt text](/header.png)](https://digitalocean.com)
+<p align="right"><img src="https://komarev.com/ghpvc/?username=jo372&label=Profile%20views&color=0e75b6&style=flat" alt="jo372" /></p>
+
+[![Alt text](/header.png)](#)
 
 ### About Me
 ---
