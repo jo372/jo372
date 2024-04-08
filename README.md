@@ -17,7 +17,9 @@ One of my proudest achievements was working alongside [AlmasB](https://github.co
 * React Native
 
 https://codepen.io/jo372/
+
 https://hashnode.com/@jordanohara
+
 --- 
 
 [![Jordans Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo372&langs_count=10&layout=compact&theme=tokyonight&hide=css)](#)    [![Jordans GitHub stats](https://github-readme-stats.vercel.app/api?username=jo372&theme=tokyonight&show_icons=true&count_private=true)](#) 
