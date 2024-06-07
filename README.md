@@ -23,3 +23,7 @@ https://hashnode.com/@jordanohara
 --- 
 
 [![Jordans Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo372&langs_count=10&layout=compact&theme=tokyonight&hide=css)](#)    [![Jordans GitHub stats](https://github-readme-stats.vercel.app/api?username=jo372&theme=tokyonight&show_icons=true&count_private=true)](#) 
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; background-size: cover; opacity: 0.1; background: url('https://wallpapers.com/images/hd/chill-4k-pink-cloud-16lb8cbx2mrqijjz.jpg');]{x0000}$}
