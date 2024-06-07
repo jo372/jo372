@@ -26,4 +26,4 @@ https://hashnode.com/@jordanohara
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; background-size: cover; opacity: 0.1; background: url('https://wallpapers.com/images/hd/chill-4k-pink-cloud-16lb8cbx2mrqijjz.jpg');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; background-size: cover; opacity: 0.1; background: url('https://raw.githubusercontent.com/jo372/jo372/main/chill-4k-pink-cloud-16lb8cbx2mrqijjz.jpg');]{x0000}$}
