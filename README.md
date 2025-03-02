@@ -18,7 +18,7 @@ One of my proudest achievements was working alongside [AlmasB](https://github.co
 
 https://codepen.io/jo372/
 
-https://hashnode.com/@jordanohara
+https://medium.com/@jordanohara
 
 --- 
 
