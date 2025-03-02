@@ -4,7 +4,7 @@
 
 ### About Me
 ---
-At Dabapps, I serve as a FullStack Engineer, I work alongside my team to help deliver fast, reliable, and secure applications with excellent user experiences to our clients. Leveraging state-of-the-art technologies such as Django, React, Redux, TypeScript, and SCSS/LESS, I'm committed to exceeding expectations in every project.
+At NakedEnergy, I serve as a FullStack Engineer, I work alongside my team to help deliver fast, reliable, and secure applications with excellent user experiences. Leveraging state-of-the-art technologies such as Django, React, Redux, TypeScript, and SCSS/LESS, I'm committed to exceeding expectations with every project.
 
 I hold a First Class Honours degree in Software Engineering and am actively pursuing a Masters in Ethical Hacking and Cybersecurity. I believe in the power of effective communication within teams and thrive on engaging with customers and colleagues to deliver high-quality services. With an aptitude for quickly acquiring new skills and adaptability, I've developed a broad skill set through diverse work experiences and academic endeavours, always eager to learn and progress.
 
